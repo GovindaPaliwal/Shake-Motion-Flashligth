@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:47
+-keep class com.govinda.jugnu.FlashlightWidgetProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.govinda.jugnu.FlashlightWidgetReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.govinda.jugnu.Jugnu { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.govinda.jugnu.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.govinda.jugnu.ShakeService { <init>(...); }
+
